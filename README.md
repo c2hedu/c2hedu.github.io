@@ -1,2 +1,2 @@
 # c2hedu.github.io
-Website
+Landing page for c2hedu
